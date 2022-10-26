@@ -1,6 +1,6 @@
 # PROCESSING using PYTHON
 
-This repository is for [Processing](https://py.processing.org/) using Python. I have implemented the coding challenges from [The Coding Train](https://thecodingtrain.com/) from the [Youtube Channel](https://www.youtube.com/c/TheCodingTrain) of the same name by Daniel Shiffman.  
+This repository is for [Processing](https://py.processing.org/) using Python. I have implemented the coding challenges from [The Coding Train](https://thecodingtrain.com/) from the [Youtube Channel](https://www.youtube.com/c/TheCodingTrain) of the same name by Daniel Shiffman in Python.  
 
 | No. | Challenge                                                                                                                  | Code                                                                                      |
 |-----|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
